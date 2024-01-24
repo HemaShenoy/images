@@ -21,3 +21,5 @@
 ![multivariable2](https://github.com/HemaShenoy/images/assets/122464897/0ae175b9-ecbb-48f1-8cfe-42b6e06e7b4e)
 
 ![3D plot](https://github.com/HemaShenoy/images/assets/122464897/5ac44853-2655-4c6a-beac-b37120ecb5be)
+![Screenshot 2024-01-24 091954](https://github.com/HemaShenoy/images/assets/122464897/8c312041-daca-4b1d-b381-dec54b785126)
+![Screenshot 2024-01-24 092126](https://github.com/HemaShenoy/images/assets/122464897/35544b44-b348-484d-99a5-6372965baa93)
