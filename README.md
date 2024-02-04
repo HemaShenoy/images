@@ -23,3 +23,23 @@
 ![3D plot](https://github.com/HemaShenoy/images/assets/122464897/5ac44853-2655-4c6a-beac-b37120ecb5be)
 ![Screenshot 2024-01-24 091954](https://github.com/HemaShenoy/images/assets/122464897/8c312041-daca-4b1d-b381-dec54b785126)
 ![Screenshot 2024-01-24 092126](https://github.com/HemaShenoy/images/assets/122464897/35544b44-b348-484d-99a5-6372965baa93)
+![Screenshot (6)](https://github.com/HemaShenoy/images/assets/122464897/46a74091-ebf3-4175-bee3-f47993b2032c)
+![Screenshot (7)](https://github.com/HemaShenoy/images/assets/122464897/0d8257f5-55f5-4436-96af-bd14d52dff71)
+![Screenshot (8)](https://github.com/HemaShenoy/images/assets/122464897/eab7ca22-656f-4119-91ab-82fa6e6fbfe4)
+
+
+![1313](https://github.com/HemaShenoy/images/assets/122464897/339f82e2-a486-4b58-a971-53b99cdad142)
+
+
+![121](https://github.com/HemaShenoy/images/assets/122464897/298df9c1-55bc-4ea9-8721-9d8997408972)
+![Screenshot (11)](https://github.com/HemaShenoy/images/assets/122464897/e8f53f32-6760-48e5-b902-0b31d44c0852)
+
+
+
+
+
+![Screenshot (9)](https://github.com/HemaShenoy/images/assets/122464897/0c81863c-8231-428f-8347-eb6a1dd82918)
+
+
+
+
