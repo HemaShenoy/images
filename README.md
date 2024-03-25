@@ -41,5 +41,27 @@
 ![Screenshot (9)](https://github.com/HemaShenoy/images/assets/122464897/0c81863c-8231-428f-8347-eb6a1dd82918)
 
 
+https://medium.com/@hemashenoy2017/decoding-convolutional-neural-networks-insights-into-cnns-and-anns-afcf188b8eea
+
+![Screenshot (16)](https://github.com/HemaShenoy/images/assets/122464897/1dedcfe4-d2d9-40db-9fd2-5a1b9887aafb)
+![Screenshot (18)](https://github.com/HemaShenoy/images/assets/122464897/30ca4a58-6314-4797-be9f-5023ee40d472)
+
+![Screenshot (19)](https://github.com/HemaShenoy/images/assets/122464897/19b8ac96-2e8c-4fb1-af62-5d2f923006d4)
+
+![Screenshot (17)](https://github.com/HemaShenoy/images/assets/122464897/9af30db5-c184-47ea-aa92-d655d779cb53)
+
+
+![Screenshot (24)](https://github.com/HemaShenoy/images/assets/122464897/26ef94dc-56d0-41a9-9d89-a436f9e7789b)
+
+![Screenshot (20)](https://github.com/HemaShenoy/images/assets/122464897/aef5b3eb-282a-447e-88a6-dac634e7eec5)
+
+
+
+
+![Screenshot (23)](https://github.com/HemaShenoy/images/assets/122464897/079f7e3d-2c79-49a3-9852-0b5fe0db2efd)
+
+
+
+![Screenshot (22)](https://github.com/HemaShenoy/images/assets/122464897/57dc10e6-7c40-437e-97e4-558c0c79891a)
 
 
