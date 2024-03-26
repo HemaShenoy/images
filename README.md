@@ -63,5 +63,6 @@ https://medium.com/@hemashenoy2017/decoding-convolutional-neural-networks-insigh
 
 
 ![Screenshot (22)](https://github.com/HemaShenoy/images/assets/122464897/57dc10e6-7c40-437e-97e4-558c0c79891a)
+![newplot](https://github.com/HemaShenoy/images/assets/122464897/dfab92d6-6270-4132-bd61-1177040eecb4)
 
 
