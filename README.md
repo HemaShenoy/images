@@ -51,18 +51,41 @@ https://medium.com/@hemashenoy2017/decoding-convolutional-neural-networks-insigh
 ![Screenshot (17)](https://github.com/HemaShenoy/images/assets/122464897/9af30db5-c184-47ea-aa92-d655d779cb53)
 
 
-![Screenshot (24)](https://github.com/HemaShenoy/images/assets/122464897/26ef94dc-56d0-41a9-9d89-a436f9e7789b)
-
-![Screenshot (20)](https://github.com/HemaShenoy/images/assets/122464897/aef5b3eb-282a-447e-88a6-dac634e7eec5)
-
-
-
-
-![Screenshot (23)](https://github.com/HemaShenoy/images/assets/122464897/079f7e3d-2c79-49a3-9852-0b5fe0db2efd)
-
-
-
-![Screenshot (22)](https://github.com/HemaShenoy/images/assets/122464897/57dc10e6-7c40-437e-97e4-558c0c79891a)
 ![newplot](https://github.com/HemaShenoy/images/assets/122464897/dfab92d6-6270-4132-bd61-1177040eecb4)
+
+
+
+
+
+![Screenshot (23)](https://github.com/HemaShenoy/images/assets/122464897/cee8cdf9-ab51-4083-b3b9-a371bc511f8f)
+
+
+![Screenshot (24)](https://github.com/HemaShenoy/images/assets/122464897/fe0459c4-1aa1-4f9b-81e6-f87f1cefa3ee)
+
+
+
+
+
+![Screenshot (20)](https://github.com/HemaShenoy/images/assets/122464897/40b76a70-d2e2-4242-8074-77196eef49b4)
+
+![Screenshot (22)](https://github.com/HemaShenoy/images/assets/122464897/c54a3455-d586-4858-b3a0-3f3404ec0e19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
