@@ -70,6 +70,7 @@ https://medium.com/@hemashenoy2017/decoding-convolutional-neural-networks-insigh
 
 ![Screenshot (22)](https://github.com/HemaShenoy/images/assets/122464897/c54a3455-d586-4858-b3a0-3f3404ec0e19)
 
+![image](https://github.com/HemaShenoy/images/assets/122464897/89d93d57-9141-4b60-a1c6-8d6374107f55)
 
 
 
